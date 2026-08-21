@@ -1,2 +1,3 @@
-def show_student(name):
-    print("Student:",name)
+def show_student(name, score):
+    print("Student",name)
+    print("Score",score)
