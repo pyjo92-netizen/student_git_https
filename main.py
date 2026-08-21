@@ -1,2 +1,3 @@
 print("Student Management Program")
-print("Program Start")
+name = input("Enter name:")
+print("Welcome",name)
